@@ -1,3 +1,13 @@
+
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+}
+
 .card {
     background-color: hsl(0, 0%, 100%);
     padding: 1rem;
